@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_study07_react_router=self.webpackChunkreact_study07_react_router||[]).push([[100],{100:function(t,e,a){a.r(e);var i=a(974),c=a(184);e.default=function(){return(0,c.jsx)(i.E.div,{initial:{opacity:0},animate:{opacity:1},exit:{opacity:0},children:(0,c.jsx)("section",{children:(0,c.jsx)("img",{src:"./images/aboutme.png",alt:"#"})})})}}}]);
+//# sourceMappingURL=100.4a7da015.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_study07_react_router=self.webpackChunkreact_study07_react_router||[]).push([[443],{443:function(t,e,i){i.r(e);var r=i(974),a=i(184);e.default=function(){return(0,a.jsx)(r.E.div,{initial:{y:-500},animate:{y:0},exit:{y:500},children:(0,a.jsx)("section",{children:(0,a.jsx)("img",{src:"./images/ability.png",alt:"#"})})})}}}]);
+//# sourceMappingURL=443.aaf167d9.chunk.js.map
